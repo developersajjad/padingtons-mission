@@ -1,0 +1,145 @@
+h1,
+h2,
+.section-title,
+.button {
+  font-family: "Poppins", sans-serif;
+}
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: justify;
+}
+.section-title {
+  text-align: center;
+}
+.heading-highlight {
+  color: #ffad5a;
+}
+.hero-area {
+  display: flex;
+  margin: 0px auto;
+  width: 1000px;
+}
+.hero-left {
+  margin-top: 80px;
+}
+.left-border-hero {
+  border-left: 1.5px solid;
+  border-color: #ff5959;
+}
+.button {
+  background-color: #ff5959;
+  color: white;
+  padding: 5px 25px;
+  text-decoration: none;
+  border-radius: 5%;
+}
+
+/*
+mission area style
+*/
+.mission-cards {
+  display: flex;
+  max-width: 1000px;
+  margin: 0px auto;
+}
+.cards-img img {
+  width: 20%;
+}
+.mission-cards-1 {
+  background-color: #edf5f6;
+  text-align: center;
+  border-radius: 5%;
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: 1px 2px 1px 2px solid grey;
+  width: 30%;
+  margin: 10px;
+  padding: 10px;
+}
+.mission-cards-2 {
+  background-color: #ffeeee;
+  text-align: center;
+  border-radius: 5%;
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: 1px 2px 1px 2px solid grey;
+  width: 30%;
+  margin: 10px;
+  padding: 10px;
+}
+.mission-cards-3 {
+  background-color: #fff4d6;
+  text-align: center;
+  border-radius: 5%;
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: 1px 2px 1px 2px solid grey;
+  width: 30%;
+  margin: 10px;
+  padding: 10px;
+}
+.cards-heading-title {
+  font-family: "poppins";
+}
+/*
+about area
+*/
+.about-area {
+  display: flex;
+  margin: 0px auto;
+  width: 1000px;
+  margin-top: 50px;
+}
+.about-img img {
+  width: 300px;
+}
+.about-info {
+  margin-left: 40px;
+  margin-top: 25px;
+}
+/*
+community area
+*/
+.community {
+  display: flex;
+  margin: 0px auto;
+  width: 1000px;
+  margin-top: 50px;
+}
+.community-img img {
+  width: 300px;
+}
+.community-info {
+  margin-right: 40px;
+  margin-top: 25px;
+}
+/*
+footer area
+*/
+footer {
+  height: 200px;
+  max-width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+footer p {
+  text-align: center;
+}
+/*
+extra
+*/
+.extra {
+  align-items: center;
+  text-align: center;
+}
+.extra-data p {
+  margin: 0px auto;
+  width: 40%;
+  border: 1px solid grey;
+  border-radius: 15px;
+  text-align: center;
+  padding: 30px;
+}
+.extra-img img {
+  width: 50%;
+  height: 550px;
+}
